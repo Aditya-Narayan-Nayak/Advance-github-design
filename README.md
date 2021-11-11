@@ -8,7 +8,7 @@ Course by Eddie
 ~~its an previous item~~
 its an new item
 Here is my [Twitter](https://twitter.com/AdityaN71677515) link
-![Aditya Narayan Nayak](https://pbs.twimg.com/profile_images/1454862010651340801/55uwOEFQ_400x400.png)
+![Aditya Narayan Nayak](https://avatars.githubusercontent.com/u/72183256?v=4)
 - item 1
 - item 2
 - item 3
