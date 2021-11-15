@@ -35,3 +35,5 @@ Here is my [Twitter](https://twitter.com/AdityaN71677515) link
         | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
         | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
         | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
+        
+[![wakatime](https://wakatime.com/badge/user/8980ae70-4035-45bb-8c9a-a45067c11b98.svg)](https://wakatime.com/@8980ae70-4035-45bb-8c9a-a45067c11b98)
